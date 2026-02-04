@@ -1,0 +1,96 @@
+2026-01-20 02:22:09 - Order Confirmation
+To: customer@retailer.com
+Subject: Order Confirmation - IslandLink ISDN #6
+Order ID: 6
+Total: $262.49
+Status: Email server not configured (logged instead)
+---
+
+2026-01-20 02:24:22 - Delivery Notification
+To: customer@retailer.com
+Subject: Delivery Update - Order #6
+Order ID: 6
+Status: DISPATCHED
+Status: Email server not configured (logged instead)
+---
+
+2026-01-20 02:24:33 - Delivery Notification
+To: customer@retailer.com
+Subject: Delivery Update - Order #6
+Order ID: 6
+Status: DELIVERED
+Status: Email server not configured (logged instead)
+---
+
+2026-01-20 02:24:44 - Delivery Notification
+To: customer@retailer.com
+Subject: Delivery Update - Order #4
+Order ID: 4
+Status: DELIVERED
+Status: Email server not configured (logged instead)
+---
+
+2026-01-20 10:55:07 - Order Confirmation
+To: customer@retailer.com
+Subject: Order Confirmation - IslandLink ISDN #1
+Order ID: 1
+Total: $119.98
+Status: Email server not configured (logged instead)
+---
+
+2026-01-20 11:41:32 - Order Confirmation
+To: customer@retailer.com
+Subject: Order Confirmation - IslandLink ISDN #2
+Order ID: 2
+Total: $1,049.79
+Status: Email server not configured (logged instead)
+---
+
+2026-01-20 11:45:21 - Delivery Notification
+To: customer@retailer.com
+Subject: Delivery Update - Order #2
+Order ID: 2
+Status: DELIVERED
+Status: Email server not configured (logged instead)
+---
+
+2026-01-20 11:45:29 - Delivery Notification
+To: customer@retailer.com
+Subject: Delivery Update - Order #1
+Order ID: 1
+Status: DELIVERED
+Status: Email server not configured (logged instead)
+---
+
+2026-01-20 14:45:55 - Order Confirmation
+To: customer@retailer.com
+Subject: Order Confirmation - IslandLink ISDN #3
+Order ID: 3
+Total: $67.49
+Status: Email server not configured (logged instead)
+---
+
+2026-02-04 11:09:23 - Order Confirmation
+To: customer@retailer.com
+Subject: Order Confirmation - IslandLink ISDN #1
+Order ID: 1
+Total: $262.49
+Status: Email server not configured (logged instead)
+---
+
+2026-02-04 11:24:39 - Order Confirmation
+To: kawshananton@gmail.com
+Subject: Order Confirmation - IslandLink ISDN #2
+Order ID: 2
+Total: $25.49
+Status: Email server not configured (logged instead)
+---
+
+2026-02-04 12:53:43 - Order Confirmation
+To: kawshan@gmail.com
+Subject: Order Confirmation - IslandLink ISDN #3
+Order ID: 3
+Total: $77.98
+Status: Email server not configured (logged instead)
+---
+
